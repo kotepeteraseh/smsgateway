@@ -1,0 +1,5 @@
+{
+  "name": "SMS Gateway",
+  "description": "A web application to manage an SMS gateway, allowing users to view dashboards, manage API keys, and browse SMS logs.",
+  "requestFramePermissions": []
+}
